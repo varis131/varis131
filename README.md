@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  B.Tech CSE @ JSSATE, Noida • SDE Intern @ Kartavya Technology
+  B.Tech CSE @ JSSATE, Noida 
 </p>
 
 ---
