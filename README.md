@@ -39,7 +39,7 @@ DevOps     → Docker, CI/CD, deployment basics
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/varis-35b07a303/">
     <img src="https://img.shields.io/badge/LinkedIn-Varis-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:movaris85@gmail.com">
