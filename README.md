@@ -43,17 +43,6 @@
 * VS Code
 
 ---
-## 📊 GitHub Stats
-
-![Varis's GitHub stats](https://github-readme-stats.vercel.app/api?username=varis131\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=varis131\&theme=tokyonight)
-
----
 
 ## 🌐 Connect with Me
 
