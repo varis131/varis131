@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=180&section=header&text=Varis&fontSize=38&fontColor=ffffff"/>
-
 <h1 align="center">Hi there 👋, I'm Varis</h1>
 
 <p align="center">
@@ -58,5 +56,3 @@ DevOps     → Docker, CI/CD, deployment basics
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=120&section=footer"/>
