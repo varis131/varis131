@@ -1,58 +1,62 @@
-# Hi there 👋, I'm Varis
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=180&section=header&text=Varis&fontSize=38&fontColor=ffffff"/>
 
-🚀 Full Stack MERN Developer | Aspiring DevOps Engineer
+<h1 align="center">Hi there 👋, I'm Varis</h1>
+
+<p align="center">
+  🚀 Full Stack MERN Developer • Aspiring DevOps Engineer
+</p>
 
 ---
 
 ## 💫 About Me
 
-* 💻 I’m a **Full Stack MERN Developer** building real-world applications
-* 🌱 Currently learning **DevOps & scalable system design**
-* ⚡ Love working on **clean UI + powerful backend systems**
-* 🎯 Goal: Become a **top-tier Full Stack + DevOps Engineer**
+* 💻 Full Stack MERN Developer building **real-world scalable applications**
+* 🌱 Currently exploring **DevOps, CI/CD & system design**
+* ⚡ Focused on **clean UI, performance & backend architecture**
+* 🎯 Working towards becoming a **Full Stack + DevOps Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+<p align="center">
 
-* React.js
-* Tailwind CSS
-* JavaScript (ES6+)
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,docker,git,github,vscode,postman" />
 
-### ⚙️ Backend
+</p>
 
-* Node.js
-* Express.js
+---
 
-### 🗄️ Database
+## ⚡ Dev Focus
 
-* MongoDB
-
-### ⚡ DevOps (Learning)
-
-* Docker
-* CI/CD
-* Cloud (AWS basics)
-
-### 🧰 Tools
-
-* Git & GitHub
-* Postman
-* VS Code
+```text
+Frontend   → React + Tailwind (UI/UX, responsiveness)
+Backend    → Node.js + Express (APIs, logic, auth)
+Database   → MongoDB (schema design, queries)
+DevOps     → Docker, CI/CD, deployment basics
+```
 
 ---
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: (add link)
-* 📧 Email: movaris85@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Varis-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:movaris85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I build full-stack apps by day 🌞 and explore DevOps by night 🌙
+<p align="center">
+  <i>I build full-stack apps by day 🌞 and explore DevOps by night 🌙</i>
+</p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=120&section=footer"/>
