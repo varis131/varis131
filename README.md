@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Varis</h1>
 
 <p align="center">
-  🚀 Full Stack MERN Developer • Aspiring DevOps Engineer
+   Full Stack MERN Developer • Aspiring DevOps Engineer
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
-* 💻 Full Stack MERN Developer building **real-world scalable applications**
-* 🌱 Currently exploring **DevOps, CI/CD & system design**
-* ⚡ Focused on **clean UI, performance & backend architecture**
-* 🎯 Working towards becoming a **Full Stack + DevOps Engineer**
+*  Full Stack MERN Developer building **real-world scalable applications**
+*  Currently exploring **DevOps, CI/CD & system design**
+*  Focused on **clean UI, performance & backend architecture**
+*  Working towards becoming a **Full Stack + DevOps Engineer**
 
 ---
 
@@ -57,16 +57,6 @@ Backend    → Node.js + Express (APIs, logic, auth)
 Database   → MongoDB (schema design, queries)
 DevOps     → Docker, CI/CD, deployment basics
 ```
-
----
-
-## ⚡ Fun Fact
-
-<p align="center">
-  <i>I build full-stack apps by day 🌞 and explore DevOps by night 🌙</i>
-</p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=120&section=footer"/>
 
