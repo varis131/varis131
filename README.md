@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Varis</h1>
 
 <p align="center">
-   Full Stack MERN Developer • Aspiring DevOps Engineer
+   Full Stack MERN Developer • Exploring DevOps and Generative AI
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ##  About Me
 
 *  Full Stack MERN Developer building **real-world scalable applications**
-*  Currently exploring **DevOps, CI/CD & system design**
+*  Currently exploring **DevOps, CI/CD & Generative AI**
 *  Focused on **clean UI, performance & backend architecture**
 *  Working towards becoming a **Full Stack + DevOps Engineer**
 
@@ -56,6 +56,7 @@ Frontend   → React + Tailwind (UI/UX, responsiveness)
 Backend    → Node.js + Express (APIs, logic, auth)
 Database   → MongoDB (schema design, queries)
 DevOps     → Docker, CI/CD, deployment basics
+Gen AI     → Langchain, Python, Rag, Vector DB
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=120&section=footer"/>
